@@ -1,0 +1,12 @@
+body {
+
+    background-color:#000000;
+}
+div.video {
+    text-align:left;
+}
+iframe {
+    position:relative;
+    width:600px;
+    height:200px;
+}
